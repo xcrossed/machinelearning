@@ -1,0 +1,6 @@
+tensorflow
+kears
+wrapt==1.12.1
+sklearn
+pandas
+numpy
